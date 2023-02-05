@@ -1,0 +1,17 @@
+export { default as Header } from "./header/Header";
+export { default as Jumbotron } from "./home/Jumbotron";
+export { default as ListPosts } from "./home/ListPosts";
+export { default as ListUsers } from "./home/ListUsers";
+export { default as Button } from "./home/mobile/Button";
+export { default as AllList } from "./home/mobile/AllList";
+export { default as DetailPost } from "./home/detail/DetailPost";
+export { default as Comments } from "./home/detail/Comments";
+export { default as User } from "./home/detail/User";
+export { default as UserPage } from "./user/UserPage";
+export { default as CreatePost } from "./user/CreatePost";
+export { default as ButtonUserPage } from "./user/ButtonUserPage";
+export { default as DeletePost } from "./user/DeletePost";
+export { default as UpdatePage } from "./user/UpdatePage";
+export { default as Form } from "./user/update/Form";
+export { default as ListPostUpdate } from "./user/update/ListPostUpdate";
+export { default as MainLayout } from "./layout/main-layout";
